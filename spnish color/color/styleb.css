@@ -1,0 +1,25 @@
+#first {
+    background-color: aquamarine;
+    border: 10px  solid black;
+    padding: 9px;
+    margin: 10px;
+    width: 200px;
+    height: 180px;
+}
+#second {
+    background-color: brown;
+    width: 200px;
+    height: 180px;
+    margin-left: 200px;
+    padding:9px;
+    border: 12px solid black;
+}
+
+#third {
+    background-color: rgb(48, 215, 26);
+    width: 200px;
+    height: 180px;
+    margin-left: 27px;
+    padding:9px;
+    border: 4px solid black;
+}
