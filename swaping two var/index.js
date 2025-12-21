@@ -1,10 +1,9 @@
 console.log("Swapping values in JavaScript");
-var a = 5;
-var b = 10;
-console.log("before swapping : a =a",a ,"b=b",b);
+var a = prompt("Enter first value a:");
+var b = prompt("Enter second value b:");
+console.log("before swapping : a =",a ,"b =",b);
 //swapping
 var temp =a;
 a =b;
 b =temp;
-console.log("after swapping : a =",a ,"b =",b);
-    
+console.log("after swapping : a =",a ,"b =",b);    
